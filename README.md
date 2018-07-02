@@ -3,6 +3,8 @@
  ImageAI is a python library that lets programmers and software developers integrate computer vision into their applications with object 
  oriented programming.
  
+ #It is an object oriented programming approach of computer vision.
+ 
  # Dependencies
  Numpy
  Scipy
