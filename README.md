@@ -19,7 +19,7 @@
  # Prediction
  ImageAI has 4 different pre-trained algorithms for image prediction.
  
- #credits
+ # credits
  Olefanwa Moses
  https://github.com/OlafenwaMoses/ImageAI
     
